@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var append_prepend_1 = require("./append-prepend");
+var arr = [];
+append_prepend_1.append([1], arr);
+console.log(arr);
+append_prepend_1.append([2, 3, 4], arr);
+console.log(arr);
+append_prepend_1.prepend([0], arr);
+console.log(arr);
+append_prepend_1.prepend([-2, -1], arr);
+console.log(arr);
