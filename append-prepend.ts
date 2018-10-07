@@ -1,5 +1,4 @@
-import { errorIfValuesAreNotArrays }
-from '@writetome51/array-and-index-validation/errorIf/errorIfValuesAreNotArrays';
+import { errorIfValuesAreNotArrays }  from 'error-if-values-are-not-arrays';
 
 
 export function append(items: any[], array): void {
