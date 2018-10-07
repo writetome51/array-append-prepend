@@ -8,7 +8,13 @@
   },
   "keywords": [
     "array",
-    "manipulation"
+    "modify",
+    "manipulation",
+    "append",
+    "appending",
+    "prepend",
+    "prepending",
+    "items"
   ],
   "author": "Steve Thompson",
   "license": "MIT",
