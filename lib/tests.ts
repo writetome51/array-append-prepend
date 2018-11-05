@@ -17,3 +17,11 @@ console.log(arr);
 prepend([-2,-1],arr);
 
 console.log(arr);
+
+prepend([[1,2]],arr);
+
+console.log(arr);
+
+append([[1,2]],arr);
+
+console.log(arr);
