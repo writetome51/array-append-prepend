@@ -1,4 +1,4 @@
-import { append, prepend } from './append-prepend';
+import { append, prepend } from './index';
 
 
 let arr = [];
