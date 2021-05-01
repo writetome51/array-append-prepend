@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-append-prepend",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Functions append() and prepend(), which are alternatives to Array.push() and Array.unshift()",
   "type": "module",
   "main": "index.js",

@@ -1,4 +1,4 @@
-export declare function append(value: any, array: any[]): void;
+export declare function append<T>(value: T, array: T[]): void;
 
 
-export declare function prepend(value: any, array: any[]): void;
+export declare function prepend<T>(value: T, array: T[]): void;
